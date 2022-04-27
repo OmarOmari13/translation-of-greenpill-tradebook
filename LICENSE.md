@@ -1,0 +1,1 @@
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="مجوز کریتیو کامنز" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />این کار مجوز دارد تحت <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">مجوز کریتیو کامنز ارجاع 4.0 بین‌المللی</a>.
